@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text-to-Image Generation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Text-to-Image Generation</h1>
+        <form id="text-form">
+            <label for="text-input">Enter Text Description:</label>
+            <input type="text" id="text-input" required>
+            <button type="submit">Generate Image</button>
+        </form>
+        <div id="image-result">
+            <h3>Generated Image:</h3>
+            <img id="generated-image" src="" alt="Generated Image" style="display:none;">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
