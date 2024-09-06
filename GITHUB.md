@@ -1,4 +1,4 @@
-To push your project to GitHub, follow these steps:
+<!-- To push your project to GitHub, follow these steps:
 
 ### 1. **Initialize Git Repository**
 Navigate to your project directory and initialize a Git repository:
@@ -6,7 +6,7 @@ Navigate to your project directory and initialize a Git repository:
 ```bash
 cd /path/to/your/project
 git init
-```
+``` -->
 
 ### 2. **Add All Project Files**
 Add all the files to the Git staging area:
@@ -36,7 +36,9 @@ git remote add origin https://github.com/<username>/<repository>.git
 Push the project to GitHub:
 
 ```bash
-git push -u origin master
+git push -u origin main
+            or
+git push -f origin main
 ```
 
 Your project should now be live on GitHub!
