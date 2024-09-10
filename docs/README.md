@@ -1,6 +1,3 @@
-Certainly! Here’s a GitHub `README.md` tailored for your Text-to-Image Generation project:
-
-```markdown
 # Text-to-Image Generation from Scratch
 
 Welcome to the Text-to-Image Generation project! This repository contains a complete implementation of a model that generates images from textual descriptions. We build everything from scratch, using custom neural networks and integrating them with a web application.
@@ -126,8 +123,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, please open an issue on this repository or contact us at jaiswalgaurav863@gmail.com
 
----
 
-Happy coding and thank you for your interest in our Text-to-Image Generation project!
-```
 
