@@ -8,6 +8,12 @@ cd /path/to/your/project
 git init
 ``` -->
 
+### 1 ** To Download project use -
+
+```bash
+git clone https://github.com/Gaurav-Jaiswal-1/Text2Image-Generation.git
+```
+
 ### 2. **Add All Project Files**
 Add all the files to the Git staging area:
 
@@ -29,7 +35,7 @@ Go to GitHub, create a new repository, and don't initialize it with a README fil
 After creating the repository, link it to your local project by adding a remote origin. Use the URL of the GitHub repository (replace `<username>` and `<repository>`):
 
 ```bash
-git remote add origin https://github.com/<username>/<repository>.git
+git remote add origin https://github.com/Gaurav-Jaiswal-1/Text2Image-Generation.git
 ```
 
 ### 6. **Push to GitHub**
