@@ -1,27 +1,27 @@
 # Core libraries
-torch==2.0.0           # PyTorch for deep learning
-torchvision==0.15.0    # PyTorch utilities for image processing
-numpy==1.24.2          # Numerical operations
-pandas==2.0.3          # Data manipulation
-scikit-learn==1.2.0    # Machine learning utilities
-matplotlib==3.7.1      # Plotting and visualization
-Pillow==9.5.0          # Image processing
+torch           # PyTorch for deep learning
+torchvision     # PyTorch utilities for image processing
+numpy           # Numerical operations
+pandas          # Data manipulation
+scikit-learn    # Machine learning utilities
+matplotlib      # Plotting and visualization
+Pillow          # Image processing
 
 # Text processing
-transformers==4.32.0   # For text encoders (e.g., BERT, GPT)
-nltk==3.8.1            # Natural Language Toolkit
+transformers    # For text encoders (e.g., BERT, GPT)
+nltk            # Natural Language Toolkit
 
 # Web development
-Flask==2.3.3           # Web framework for building the API
-Flask-Cors==3.1.1      # CORS support for Flask
-gunicorn==20.1.0       # WSGI HTTP server for Flask
+Flask          # Web framework for building the API
+Flask-Cors     # CORS support for Flask
+gunicorn       # WSGI HTTP server for Flask
 
 # Utilities
-tqdm==4.65.0           # Progress bars for loops
-opencv-python==4.7.0.72 # Computer vision utilities
-pytest==7.4.1          # Testing framework
-pydantic==1.10.7       # Data validation
+tqdm           # Progress bars for loops
+opencv-python # Computer vision utilities
+pytest         # Testing framework
+pydantic       # Data validation
 
 # Development tools
-black==23.3.0          # Code formatter
-isort==5.12.0          # Import sorting
+black         # Code formatter
+isort         # Import sorting
