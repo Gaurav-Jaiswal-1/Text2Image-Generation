@@ -6,6 +6,8 @@ pandas          # Data manipulation
 scikit-learn    # Machine learning utilities
 matplotlib      # Plotting and visualization
 Pillow          # Image processing
+tensorboard
+
 
 # Text processing
 transformers    # For text encoders (e.g., BERT, GPT)
