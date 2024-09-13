@@ -1,0 +1,1 @@
+ # Prepare image data for model input/output
