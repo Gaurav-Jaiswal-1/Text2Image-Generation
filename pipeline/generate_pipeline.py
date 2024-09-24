@@ -1,5 +1,3 @@
-#  Pipeline to generate images from text
-
 # pipeline/generate_pipeline.py
 import torch
 from models.vae import VAE

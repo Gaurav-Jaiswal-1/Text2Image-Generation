@@ -1,6 +1,3 @@
-#  # Pipeline to evaluate the model (e.g., FID, BLEU)
-
-
 # pipeline/evaluate_pipeline.py
 from torch.utils.data import DataLoader
 from models.vae import VAE

@@ -1,5 +1,3 @@
-#  Orchestrates the full training pipeline
-
 # pipeline/train_pipeline.py
 import torch
 from torch.utils.data import DataLoader
